@@ -10,7 +10,7 @@
 <p>I'm a mid-level .NET developer and team leader, bachelor in Computer Engineering and postgraduate in Fullstack Development. With almost four years of experience as a fullstack developer, I've worked in a few challenging projects, focusing on performance optimization and delivering high-quality, well-structured solutions on both the backend and frontend.</p>
 
 <ul>
-  <li>🌐 <strong>Experience</strong>: .NET, SQL Server, Entity Framework, Docker and related tools. Current team leader of 6 people (5 devs and 1 QA)</li>
+  <li>🌐 <strong>Experience</strong>: .NET, SQL Server, Entity Framework, Docker and related tools. Current team leader of 14 people (11 DEVs and 3 QAs) in three different projects.</li>
   <li>💻 <strong>Most Loved Project</strong>: E-commerce application in .NET 8 for a virtual bike store called <em>LiddellRoch</em>.</li>
   <li>🚀 <strong>Passionate about</strong> writing clean, scalable, and well-organized code, always prioritizing best practices and architecture patterns.</li>
 </ul>
@@ -40,7 +40,7 @@
 
 <h3><a href="https://github.com/LKlitzke/Jogo-de-Xadrez-em-C-sharp-">Chess Game</a></h3>
 <p><strong>Technologies</strong>: C#</p>
-<p>My first time developing a classic game. Even though it's simples, I've got great memories of this!</p></p>
+<p>My first time developing a classic game. Even though it's simple, I've got great memories of this!</p></p>
 
 
 <hr>
