@@ -7,11 +7,11 @@
 
 <h2>About Me</h2>
 
-<p>I'm a mid-level .NET developer and team leader, bachelor in Computer Engineering and postgraduate in Fullstack Development. With more than four years of experience as a fullstack developer, I've worked in a few challenging projects, focusing on performance optimization and delivering high-quality, well-structured solutions on both the backend and frontend.</p>
+<p>I'm a mid-level .NET developer and team leader, bachelor in Computer Engineering and postgraduate in Fullstack Development, with another ongoing postgraduate on the way. With more than four years of experience as a fullstack developer, I've worked in a few challenging projects, focusing on performance optimization and delivering high-quality, well-structured solutions on both the backend and frontend.</p>
 
 <ul>
-  <li>🌐 <strong>Experience</strong>: .NET, SQL Server, Entity Framework, Docker and related tools. Current team leader of 14 people (11 DEVs and 3 QAs) in three different projects.</li>
-  <li>💻 <strong>Most Loved Project</strong>: E-commerce application in .NET 8 for a virtual bike store called <em>LiddellRoch</em>.</li>
+  <li>🌐 <strong>Experience</strong>: .NET, SQL Server, Entity Framework, Docker and related tools. Current team tech leader in two different projects.</li>
+  <li>💻 <strong>Most Loved Project</strong>: E-commerce application in .NET 7 for a virtual bike store called <em>LiddellRoch</em>.</li>
   <li>🚀 <strong>Passionate about</strong> writing clean, scalable, and well-organized code, always prioritizing best practices and architecture patterns.</li>
 </ul>
 
@@ -22,7 +22,7 @@
 <ul>
   <li><strong>Backend</strong>: C#, .NET Core/5/6/7/8, Entity Framework, LINQ</li>
   <li><strong>Frontend</strong>: HTML5, CSS3, JavaScript, Boostrap, JQuery, AngularJS</li>
-  <li><strong>Databases</strong>: SQL Server, MySQL, Postgres, MongoDB</li>
+  <li><strong>Databases</strong>: SQL Server, MySQL, PostgresSql, MongoDB</li>
   <li><strong>Tools</strong>: Git, Visual Studio, Azure DevOps, Docker, Jenkins, Redis, Amazon S3, etc etc...</li>
 </ul>
 
